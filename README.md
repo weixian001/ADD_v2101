@@ -24,19 +24,19 @@ which do not have any effective non-reflecting boundary treatment.
 
 ## Installation
 
-This version works with OpenFOAM-v2101
+This version works with OpenFOAM-v2112
 
 * Prepare a directory on your system, e.g.:  
 
-  `mkdir ~/OpenFOAM/ADD_v2101/`
+  `mkdir ~/OpenFOAM/ADD_v2112/`
 
-* Download ADD_v2101 using git:
+* Download ADD_v2112 using git:
 
-  `git clone https://github.com/weixian001/ADD_v2101.git ~/OpenFOAM/ADD_2101/`
+  `git clone https://github.com/weixian001/ADD_v2112.git ~/OpenFOAM/ADD_2112/`
 
-* Set an environment variable to the ADD_v2101 src folder:
+* Set an environment variable to the ADD_v2112 src folder:
 
-  `export LIB_ADD=~/OpenFOAM/ADD_v2101/`
+  `export LIB_ADD=~/OpenFOAM/ADD_v2112/`
 
 * Execute `./Allwmake`
 
